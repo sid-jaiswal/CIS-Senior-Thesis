@@ -1,7 +1,7 @@
 # CIS-Senior-Thesis
 
-Title: Developing a Student Voter Propensity Model for Targeted GOTV Outreach
-Author: Siddharth Jaiswal
-Advisor: Dr. Susan Davidson
-Abstract:
+Title: Developing a Student Voter Propensity Model for Targeted GOTV Outreach\n
+Author: Siddharth Jaiswal\n
+Advisor: Dr. Susan Davidson\n
+Abstract:\n
 In this paper, I explore the viability of student voter propensity models and describe the results and learnings gained from building these models at a smaller scale in the greater Philadelphia area. Through analyzing past and current techniques for modeling turnout, this paper will cover the shortcomings of prior models and their use cases while also explaining the procedure by which a variety of data sources can be utilized to create a more accurate, specialized novel model for student voter turnout. This procedure will include first gathering sources from local, state, and federal governments alongside reputable research surveys, then processing this data into a form that is more suitable for quantitative and predictive analysis, conducting a regression analysis on the cleaned data, and further exploring any interesting results. The work involved in this project ranged from data wrangling and large-scale querying to more focused predictive modeling and consideration of various machine learning models. Although the modeling mainly required statistical and computer science experience, background knowledge and awareness of key political science concepts and theories was also required to make a more accurate model within the context of campaigns and electoral politics. As a result, a brief background and literature review of relevant political science concepts was included. Lastly, the results and learnings from this study were explored through relevant use cases and intended benefits. As this is a novel student-focused turnout model, there are several areas for improvement that are explained within the paper, but ultimately, I hope to contribute to the intersection of political and data science, a rising field with the potential to change the political landscape.
